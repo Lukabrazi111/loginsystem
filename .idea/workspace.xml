@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd5d0620-3666-4bb5-b8d8-8caccf340a86" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/localhost.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/classes/dbh.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/classes/user.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/includes/auto-loader.inc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/look.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mysql DB/loginsystem.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1oQzzWBug3I4kq8ozbxIC6LZGQL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\OpenServer\OpenServer\domains\localhost\training\img\thumbs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OpenServer\OpenServer\domains\localhost\PHP\css" />
+      <recent name="E:\OpenServer\OpenServer\domains\localhost\training\img" />
+      <recent name="E:\OpenServer\OpenServer\domains\localhost\training\js" />
+      <recent name="E:\OpenServer\OpenServer\domains\localhost\training\css" />
+      <recent name="E:\OpenServer\OpenServer\domains\localhost\sounds" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd5d0620-3666-4bb5-b8d8-8caccf340a86" name="Default Changelist" comment="" />
+      <created>1613233864601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613233864601</updated>
+      <workItem from="1613233865646" duration="6597000" />
+      <workItem from="1613253502871" duration="1468000" />
+      <workItem from="1613298854416" duration="2303000" />
+      <workItem from="1613302451928" duration="7000" />
+      <workItem from="1613306113391" duration="20338000" />
+      <workItem from="1613409773632" duration="1395000" />
+      <workItem from="1613422398960" duration="642000" />
+      <workItem from="1613478831268" duration="4478000" />
+      <workItem from="1613493591679" duration="16772000" />
+      <workItem from="1613562989800" duration="13157000" />
+      <workItem from="1613656992078" duration="18713000" />
+      <workItem from="1613822858890" duration="8373000" />
+      <workItem from="1613839659148" duration="3852000" />
+      <workItem from="1613922356000" duration="9799000" />
+      <workItem from="1613953176002" duration="31000" />
+      <workItem from="1613953208329" duration="798000" />
+      <workItem from="1613954019444" duration="73000" />
+      <workItem from="1613954098694" duration="31000" />
+      <workItem from="1613954135341" duration="4000" />
+      <workItem from="1613954189367" duration="319000" />
+      <workItem from="1613993936650" duration="12048000" />
+      <workItem from="1614102843882" duration="1970000" />
+      <workItem from="1614106232707" duration="4765000" />
+      <workItem from="1614177961708" duration="3296000" />
+      <workItem from="1614185822400" duration="4196000" />
+      <workItem from="1614265795800" duration="922000" />
+      <workItem from="1614267494612" duration="27000" />
+      <workItem from="1614267542019" duration="192000" />
+      <workItem from="1614267741939" duration="149000" />
+      <workItem from="1614267901697" duration="1711000" />
+      <workItem from="1614269792714" duration="203000" />
+      <workItem from="1614270725541" duration="2215000" />
+      <workItem from="1614375951563" duration="47000" />
+      <workItem from="1614449717101" duration="3709000" />
+      <workItem from="1614519652640" duration="21917000" />
+      <workItem from="1614597399239" duration="3740000" />
+      <workItem from="1614607723073" duration="12000" />
+      <workItem from="1614607736489" duration="6955000" />
+      <workItem from="1614633543049" duration="1000" />
+      <workItem from="1614689011927" duration="15411000" />
+      <workItem from="1614728444693" duration="8420000" />
+      <workItem from="1614777628877" duration="19037000" />
+      <workItem from="1614886146061" duration="33000" />
+      <workItem from="1614894468533" duration="99000" />
+      <workItem from="1614954273075" duration="14862000" />
+      <workItem from="1614973809778" duration="258000" />
+      <workItem from="1615028002184" duration="24859000" />
+      <workItem from="1615060633239" duration="654000" />
+      <workItem from="1615127063310" duration="2409000" />
+      <workItem from="1615139920521" duration="5284000" />
+      <workItem from="1615201329590" duration="20869000" />
+      <workItem from="1615224699068" duration="48000" />
+      <workItem from="1615224752970" duration="662000" />
+      <workItem from="1615229931954" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/git-course" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

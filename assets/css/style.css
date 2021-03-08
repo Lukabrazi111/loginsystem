@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #544a7d;
+    background: -webkit-linear-gradient(to bottom, #ffd452, #544a7d);
+    background: linear-gradient(to bottom, #ffd452, #544a7d);
+}
+
+/* Container */
+.container {
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.2);
+    width: 400px;
+    height: auto;
+    overflow: hidden;
+}
+
+/* Container Header */
+.container__header {
+    text-align: center;
+    margin: 20px 0 20px 0;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #454545;
+    border-radius: 20px;
+    color: #2c9887;
+}
+
+/* Form */
+.form-control {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 25px auto;
+    width: 250px;
+    position: relative;
+}
+
+.form-control label {
+    margin-bottom: 3px;
+    font-weight: 600;
+}
+
+.form-control input {
+    padding: 10px;
+    border: 0;
+    border-radius: 5px;
+    background: #d9d7c0;
+}
+
+.form-control input:focus {
+    outline: none;
+}
+
+.form-control.success input {
+    border: 1px solid #22bb33;
+}
+
+.form-control.error input {
+    border: 1px solid #D8000C;
+}
+
+.form-control i {
+    position: absolute;
+    right: 10px;
+    top: 31px;
+    visibility: hidden;
+}
+
+.form-control.success i.fa-check-circle {
+    visibility: visible;
+}
+
+.form-control.error i.fa-exclamation-circle {
+    visibility: visible;
+}
+
+.form-control.error i.fa-exclamation-circle {
+    color: #D8000C;
+}
+
+.form-control.success i.fa-check-circle {
+    color: #22bb33;
+}
+
+.form-control small {
+    position: absolute;
+    bottom: -17px;
+    left: 0;
+    visibility: hidden;
+}
+
+.form-control.error small {
+    visibility: visible;
+    color: #D8000C;
+}
+
+.form-control:last-child {
+    margin-bottom: 40px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+    padding: 10px;
+    width: 100%;
+    max-width: 250px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    background-color: #3cc1ad;
+    color: #fff;
+    font-size: 16px;
+    font-family: inherit;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background-color: #319f8e;
+}
+
+.btn:focus {
+    outline: none;
+}
+
+p {
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+p a {
+    margin-left: 5px;
+}
+
+.error {
+    font-size: 18px;
+    font-weight: bold;
+    color: #D8000C;
+}
+
+.success {
+    font-size: 20px;
+    font-weight: bold;
+    color: #20a22e;
+}
